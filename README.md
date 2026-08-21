@@ -1,5 +1,4 @@
-# Mise En Plase https://miseenpriseconcept.netlify.app
-# Mise 🍳
+# Mise En Place 🍳
 
 **A voice-first cooking assistant designed for hands-free, context-aware interaction in the kitchen.**
 
